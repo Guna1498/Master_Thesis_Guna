@@ -192,8 +192,8 @@ processor = AutoProcessor.from_pretrained("Qwen/Qwen2.5-VL-7B-Instruct")
 ## Thesis
 
 The full thesis document is available in the `thesis/` directory:
-
-📄 **[Generative AI for Data Analysis of Physical Structures from Aerial Images and Tabular Data](./Generative AI for Data Analysis of Physical Structures from Aerial Images and Tabular Data (Signed Submission)_pdfA.pdf)**  
+ 
+📄 **[Generative AI for Data Analysis of Physical Structures from Aerial Images and Tabular Data](./Generative%20AI%20for%20Data%20Analysis%20of%20Physical%20Structures%20from%20Aerial%20Images%20and%20Tabular%20Data%20(Signed%20Submission)_pdfA.pdf)**  
 Gunasekhar Jenni | Paderborn University, July 2025  
 Reviewers: Dr. Stefan Heindorf, Dr. Michael Röder  
 Supervisor: Daniel Horst (Fraunhofer IEE)
